@@ -1,8 +1,7 @@
 <template>
   <header class="bg-white dark:bg-gray-800 shadow-sm">
     <nav class="container mx-auto px-4 py-3 flex justify-between items-center">
-      <NuxtLink to="/" class="font-bold text-2xl text-gray-900 dark:text-white">NUXT BLOG</NuxtLink
-      >
+      <NuxtLink to="/" class="font-bold text-2xl text-gray-900 dark:text-white">Nuxt Blog</NuxtLink>
       <div class="flex items-center space-x-4">
         <NuxtLink
           to="/"
